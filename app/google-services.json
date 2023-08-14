@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "543945367461",
+    "firebase_url": "https://myapp-c4ead-default-rtdb.firebaseio.com",
+    "project_id": "myapp-c4ead",
+    "storage_bucket": "myapp-c4ead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543945367461:android:d912b11ad5b2dba4add24c",
+        "android_client_info": {
+          "package_name": "com.example.mymobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543945367461-vemqf8lt47ejlton0375u67bnpru0v60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjibnKVsxNq0YI1aZiWMsQvO0rEb_RzhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543945367461-vemqf8lt47ejlton0375u67bnpru0v60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
